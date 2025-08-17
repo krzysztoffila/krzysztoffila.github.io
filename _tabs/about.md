@@ -19,4 +19,3 @@ On this website, I document:
 📬 You can reach me via:
 - GitHub: [krzysztoffila](https://github.com/krzysztoffila)
 - LinkedIn: [linkedin.com/in/krzysztoffila](https://www.linkedin.com/in/krzysztoffila)
-- Email: *your_email_here*
