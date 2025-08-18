@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Blog
+title: blog
 icon: fas fa-pen
 order: 5
 ---
